@@ -1,4 +1,4 @@
-# terraform-aws-vpc-endpoints
+# terraform-aws-endpoint
 
 AWS VPC Endpoint를 생성하고 관리하는 Terraform 모듈입니다.
 
